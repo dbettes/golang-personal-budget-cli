@@ -100,5 +100,3 @@ func GetBudget(month time.Month) *Budget {
 
 	return nil
 }
-
-// END Project code
